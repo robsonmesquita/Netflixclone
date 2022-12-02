@@ -1,15 +1,9 @@
-/* eslint-disable jsx-a11y/alt-text */
-/* eslint-disable react/jsx-no-comment-textnodes */
-/* eslint-disable no-undef */
-/* eslint-disable no-unused-vars */
-/* eslint-disable import/no-anonymous-default-export */
 import React, { useEffect, useState } from "react";
 import "./App.css"
 import tmdb from "./tmdb";
 import MovieRow from "./components/MovieRow";
 import FeaturedMovie from "./components/FeaturedMovie";
 import Header from "./components/Header";
-
 
 
 export default () => {

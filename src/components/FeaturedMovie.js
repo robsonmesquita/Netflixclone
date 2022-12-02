@@ -1,7 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-/* eslint-disable react/jsx-no-comment-textnodes */
-/* eslint-disable import/no-anonymous-default-export */
-//*eslint-disable-next-line *//
 import React from 'react';
 import  "./Featured.css";
 
